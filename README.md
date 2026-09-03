@@ -2,7 +2,7 @@
 
 ## Project Summary:
 
-This project is a full-scale financial model and equity research report on Avenue Supermarts Limited (DMart), India's leading value-retail supermarket chain. Built from the company's historical financial statements (FY2020–FY2026), the model consolidates raw financial data into a complete three-statement framework — Income Statement, Balance Sheet, and Cash Flow Statement — supported by detailed schedules for depreciation, working capital, and revenue drivers (store count, retail area, and same-store growth).
+*This project is a full-scale financial model and equity research report on Avenue Supermarts Limited (DMart), India's leading value-retail supermarket chain. Built from the company's historical financial statements (FY2020–FY2026), the model consolidates raw financial data into a complete three-statement framework — Income Statement, Balance Sheet, and Cash Flow Statement — supported by detailed schedules for depreciation, working capital, and revenue drivers (store count, retail area, and same-store growth).*
 
 The report layers in ratio analysis (profitability, liquidity, turnover, and returns), common-size statements to track margin and cost structure trends over time, and a DCF valuation to arrive at an intrinsic target price, benchmarked against the company's actual traded price. The end deliverable is structured as a formal equity research report — front page, table of contents, one-page company profile, and supporting exhibits — suitable for presentation to an investment audience.
 
