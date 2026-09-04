@@ -29,9 +29,7 @@ The report layers in **ratio analysis** (profitability, liquidity, turnover, and
 ## A detailed summary of the Model:
 
 ### 1) Company Snapshot — Avenue Supermarts Limited: A One-Page Financial Profile
-
-![](/Images/Page_1.png)
-  
+ 
 ### Summary:
 
 A single-page company overview introducing DMart's value-retail business model and **EDLC/EDLP** philosophy, anchored by a 7-year key metrics table *(FY20–FY26)* and three supporting charts — **average share price history, traded volume, and shareholder composition.**
@@ -46,8 +44,6 @@ A single-page company overview introducing DMart's value-retail business model a
 
 ### 2) Operating & Financial Summary — Six-Year Trend Dashboard (FY21–FY26)
 
-![](/Images/Page_2.png)
-
 ### Summary:
 
 A visual dashboard of 8 charts tracking **revenue, profitability, cash flow, operating efficiency, and leverage trends** over *FY21–FY26*, backed by a documented list of data sources (DMart IR site, Screener, Yahoo Finance, Investing.com).
@@ -57,12 +53,11 @@ A visual dashboard of 8 charts tracking **revenue, profitability, cash flow, ope
 - **Revenue** climbed every year, from *₹24,143 Cr (FY21) to ₹68,821 Cr (FY26)*.
 - **Retail area** more than doubled, from *8.8 mn sq. ft. to 20.6 mn sq. ft.*
 - **Net profit** grew from *₹1,099 Cr to ₹2,971 Cr*, but net margin actually slipped from *4.55% to 4.32%* — profit growth trailing revenue growth.
+- The same behaviour as **Net profit** can be observed with **EBIT and the EBIT margin**, where the EBIT grows while the EBIT margin peaked at *7% (FY23)* and steadily declined to *6% (FY26)*.
 - **Operating cash flow** hit a period-high of *₹3,467 Cr in FY26.*
 
 
 ### 3) Common-Size Statements — Structural Trend Analysis (FY20–FY26)
-
-![](/Images/Page_3.png)
 
 ### Summary:
 
@@ -73,11 +68,9 @@ A restatement of the **income statement** and **balance sheet** as percentages o
 - **COGS** held stable at *~84.9–85.2%* of revenue for 7 straight years.
 - **Employee costs** crept up from *1.83% of revenue (FY20) to 2.24% (FY26)* — **wage costs** outpacing revenue slightly.
 - **PP&E's** share of total assets rose steadily from *42.3% (FY20) to 59.6% (FY26)* — the business is getting more capital-intensive as the store network scales.
-- **Equity funding's** share of the balance sheet fell from *91.8% (FY20) to 82.9% (FY26)*, while .**liabilities'** share roughly doubled *(8.2% → 17.1%).*
+- **Equity funding's** share of the balance sheet fell from *91.8% (FY20) to 82.9% (FY26)*, however this needs to be studied further as Avenue Supermarts Limited does not have much in the form of debt and the equity in this company is mostly in the form of **retained eranings**. Another point to consider is that the company has **not paid dividend since its IPO issue**. Now, **liabilities'** share roughly doubled *(8.2% → 17.1%).*
 
 ### 4) Ratio Analysis — Profitability, Liquidity, Solvency & Valuation (FY20–FY26)
-
-![](/Images/Page_4.png)
 
 ### Summary:
 
@@ -88,12 +81,10 @@ A comprehensive ratio suite — **profitability, ROI, liquidity, turnover, activ
 - **Current ratio** nearly halved, from *3.23x (FY20) to 1.98x (FY26)* — still healthy, but the liquidity buffer has thinned considerably.
 - **Interest coverage** dropped sharply to *29.2x in FY26 from 52.1x in FY25*, driven by a jump in finance costs.
 - **Return on Equity** peaked around *16% in FY23* and has since eased to *12.9% (FY26)*.
-- **P/E ratio** compressed from *107x (FY20) to 89.3x (FY26)* despite strong EPS growth.
+- **P/E ratio** compressed from *107x (FY20) to 89.3x (FY26)*, while the **EPS** raised from *₹36.72 (FY23) to ₹45.65 (FY26)*, indicating a continuous growth in the **earnings**.
 - **Debt-to-equity ratio** doubled in *FY26 (7.1%) versus FY25 (3.5%)*.
 
 ### 5) Income Statement — Historical Actuals (FY20–FY26) & 10-Year Forecast (FY27–FY36)
-
-![](/Images/Page_5.png)
 
 ### Summary:
 
@@ -108,8 +99,6 @@ Full **income statement** from revenue down to diluted EPS — reported historic
 
 ### 6) Balance Sheet — Historical Trend (FY20–FY26)
 
-![](/Images/Page_6.png)
-
 ### Summary:
 
 Full **consolidated balance sheet** build — assets, liabilities, and equity — with an explicit "Balanced" check confirming the statement ties out every year, tracking how the balance sheet has scaled alongside store expansion.
@@ -122,8 +111,6 @@ Full **consolidated balance sheet** build — assets, liabilities, and equity �
 - Combined **trade payables** roughly tripled, from *₹433 Cr (FY20) to ₹1,338 Cr (FY26).*
 
 ### 7) Cash Flow Statement — Operating, Investing & Financing Activity (FY20–FY26)
-
-![](/Images/Page_7.png)
 
 ### Summary:
 
@@ -138,16 +125,14 @@ Full **consolidated balance sheet** build — assets, liabilities, and equity �
 
 ### 8)DCF Valuation — Intrinsic Value & Target Price
 
-![](/Images/Page_8.png)
-
 ### Summary:
 
 A **discounted cash flow model** projecting **Free Cash Flow to Firm** across a *10-year explicit forecast (FY27–FY36)* plus a **terminal value**, **discounted at WACC** to derive **Enterprise Value**, **Equity Value**, and an implied per-share **target price** — supported by a **WACC/terminal-growth sensitivity table.**
 
 ### Key Highlights:
 
-- **WACC** calculated at *10.12%*, built from a **CAPM** cost of equity of *10.15%* **(risk-free rate *6.94%*, beta *0.877*, market return *10.6%*) and cost of debt of *7.75%*.**
+- **WACC** calculated at *10.12%*, built from a **CAPM** cost of equity of *10.15%* **(risk-free rate *6.97%*, beta *0.45*, market return *10.5%*) and cost of debt of *7.75%*.**
 - **FCFF** is negative in *FY26 (–₹755 Cr)* due to heavy capex, turning strongly positive from *FY27* onward.
 - The **terminal value** *(~₹3,96,295 Cr)* dominates the valuation — nearly all of the *~₹2,05,944 Cr* enterprise value comes from cash flows beyond the *10-year* explicit window.
-- **Implied target price** of *₹3,139.67* sits below the *₹3,781* share price used in the capital structure calculation — the DCF implies the stock is trading above its modeled **intrinsic value.**
+- **Implied target price** of *₹4650.14* sits above the *₹3,770* share price used in the capital structure calculation — the DCF implies the stock is trading below its modeled **intrinsic value.**
 - The **sensitivity table** shows the target price swings meaningfully across **WACC and terminal-growth scenarios** (from "very low" to "very high").
