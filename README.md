@@ -26,6 +26,8 @@ The report layers in **ratio analysis** (profitability, liquidity, turnover, and
 
 - 🧮 **Advanced Excel skills:** Financial formulas, data analysis, PivotTables, structured tables, data validation, dynamic calculations, charting, formula auditing, and presentation-ready reporting.
 
+- 🐍 **Python:** •	Eliminated manual CAPM input updates by **automating share price, beta, and market return** calculations with Python (xlwings, pandas) — keeping the model's cost-of-equity current with **live market data** on demand.
+
 ## A detailed summary of the Model:
 
 ### 1) Company Snapshot — Avenue Supermarts Limited: A One-Page Financial Profile
@@ -123,16 +125,16 @@ Full **consolidated balance sheet** build — assets, liabilities, and equity �
 - FY26 was the first year with a **net cash inflow from financing activities** *(+₹288 Cr)*, reversing years of net outflows — driven by fresh short-term borrowings and commercial paper.
 - **Closing cash and cash equivalents** turned negative (*–₹96.6 Cr*, i.e. bank overdrawn) in **FY26**, a departure from healthy positive balances in prior years.
 
-### 8)DCF Valuation — Intrinsic Value & Target Price
+### 8) DCF Valuation — Intrinsic Value & Target Price
 
 ### Summary:
 
-A **discounted cash flow model** projecting **Free Cash Flow to Firm** across a *10-year explicit forecast (FY27–FY36)* plus a **terminal value**, **discounted at WACC** to derive **Enterprise Value**, **Equity Value**, and an implied per-share **target price** — supported by a **WACC/terminal-growth sensitivity table.**
+A **discounted cash flow model** projecting **Free Cash Flow to Firm** across a 10-year explicit forecast *(FY27–FY36)* plus a **terminal value**, **discounted at WACC** to derive **Enterprise Value**, **Equity Value**, and an implied per-share **target price** — supported by a **WACC/terminal-growth sensitivity table**. Key CAPM inputs — **beta**, **current share price**, and **market rate of return** — are pulled live via a **Python (xlwings, pandas) automation**, keeping the valuation's cost-of-equity assumptions current with market data rather than static manual entries.
 
 ### Key Highlights:
 
-- **WACC** calculated at *10.12%*, built from a **CAPM** cost of equity of *10.15%* **(risk-free rate *6.97%*, beta *0.45*, market return *10.5%*) and cost of debt of *7.75%*.**
+- **WACC** calculation, built from a **CAPM** cost of equity (**risk-free rate** *6.97%*, **beta** — computed via automated 6-year regression of **DMart vs. Nifty 50 daily returns** — and **market return** — derived from 6 years of **Nifty 50 closing price data**) and cost of debt of *7.75%*.**
 - **FCFF** is negative in *FY26 (–₹755 Cr)* due to heavy capex, turning strongly positive from *FY27* onward.
 - The **terminal value** *(~₹3,96,295 Cr)* dominates the valuation — nearly all of the *~₹2,05,944 Cr* enterprise value comes from cash flows beyond the *10-year* explicit window.
-- **Implied target price** of *₹4650.14* sits above the *₹3,770* share price used in the capital structure calculation — the DCF implies the stock is trading below its modeled **intrinsic value.**
+- **Implied target price** of *₹4,650.14* sits above the **live-pulled current share price** of *₹3,770* — the DCF implies the stock is trading below its modeled **intrinsic value**.
 - The **sensitivity table** shows the target price swings meaningfully across **WACC and terminal-growth scenarios** (from "very low" to "very high").
